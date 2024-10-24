@@ -1,4 +1,2 @@
 first line code
 second line code
-
-git & github
